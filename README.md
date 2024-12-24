@@ -8,17 +8,21 @@ These dashboards showcase a variety of visualization types and techniques, inclu
 
 ## Featured Dashboards
 ### Customer Order Trends
+https://github.com/windaakputri/tableau-snip/blob/main/tableausnip1.jpg
 * Purpose: Analyze order trends segmented by customer type, providing insights into purchase behaviors and identifying key customer segments.
 * Features: Line charts and bar graphs to show order volumes over time, and segmented filters for customer types.
 
 ### Sales Performance Analysis
+https://github.com/windaakputri/tableau-snip/blob/main/tableausnip2.jpg
 * Purpose: Evaluate sales performance by category, time period, and targets to measure growth and identify areas for improvement.
 * Features: Bar charts, line charts, pie charts along with target comparison indicators.
 
 ### SLA Performance by Region
+https://github.com/windaakputri/tableau-snip/blob/main/tableausnip3.jpg
 * Purpose: Monitor and analyze Service Level Agreement (SLA) performance across different regions to ensure operational efficiency.
 * Features: Pie charts and bar charts visualizing SLA adherence by region.
 
 ### Shipping Time Performance Flow
+https://github.com/windaakputri/tableau-snip/blob/main/tableausnip4.jpg
 * Purpose: Visualize the flow of shipping times across hubs to identify bottlenecks and optimize logistics operations.
 * Features:  Flow diagrams illustrating shipping time distributions and hub performance, supported by summary KPIs.
