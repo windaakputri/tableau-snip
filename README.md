@@ -2,7 +2,7 @@
 Welcome to my Tableau portfolio! Below, you'll find examples of dashboards and visualizations I have created to demonstrate my expertise in data analysis and visualization design.
 
 ## About the Visualizations
-These dashboards showcase a variety of visualization types and techniques, including bar charts, line graphs, heat maps, and interactive elements such as filters and tooltips.
+These dashboards showcase a variety of visualization types and techniques, including bar charts, line graphs, pie charts, filters etc.
 
 > Note: Due to the confidential nature of the data used in my professional work, these examples feature static images with blurred or hidden data. They are designed to highlight the visualization styles, layout, and interactivity of my dashboards while protecting sensitive information.
 
